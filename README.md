@@ -7,7 +7,7 @@ Learning resources, project ideas, etc
 Arduino Tutorials by Jeremy Blum - https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84 <br/>
 Arduino Tutorials by Paul McWhorter - https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP <br/>
 Many other tutorials by Paul McWhorter - https://www.youtube.com/@paulmcwhorter/playlists <br/>
-
+ROS2 overview by Josh Newans - https://articulatedrobotics.xyz <br/>
 
 
 # Project Ideas
